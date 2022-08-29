@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749586561509",
+    "project_id": "testechatneto",
+    "storage_bucket": "testechatneto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749586561509:android:98f0a68f966f0a6ce6d70c",
+        "android_client_info": {
+          "package_name": "br.com.testeneto.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749586561509-7riec32t7gcu09kri26mt5cdnfd5cja8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvTGC-lidtztdQ1jstQV760BpGDo6EQq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749586561509-7riec32t7gcu09kri26mt5cdnfd5cja8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
